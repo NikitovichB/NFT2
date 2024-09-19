@@ -475,19 +475,19 @@ main {
 }
 
 .image1 {
-  background-image: url(/img/1.jpg);
+  background-image: url(./img/1.jpg);
 }
 
 .image2 {
-  background-image: url(/img/2.jpg);
+  background-image: url(./img/2.jpg);
 }
 
 .image3 {
-  background-image: url(/img/3.jpg);
+  background-image: url(./img/3.jpg);
 }
 
 .image4 {
-  background-image: url(/img/4.jpg);
+  background-image: url(./img/4.jpg);
 }
 
 .main-photos-slide__img {
